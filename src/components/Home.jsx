@@ -100,7 +100,7 @@ const Home = () => {
           </div>
         </div>
 
-        {/* Hero Visual Card / Profile Photo & Code Snippet */}
+        {/* Hero Visual Card / Profile Photo */}
         <div className="hero-graphic">
           <div className="hero-profile-card">
             <div className="photo-wrapper">
@@ -120,33 +120,6 @@ const Home = () => {
                 <span>React.js</span>
               </div>
             </div>
-          </div>
-
-          <div className="code-window">
-            <div className="window-header">
-              <span className="dot red"></span>
-              <span className="dot yellow"></span>
-              <span className="dot green"></span>
-              <span className="window-title">jaya_ganesh.py</span>
-            </div>
-            <pre className="code-body">
-              <code>
-                <span className="syntax-keyword">class</span> <span className="syntax-class">FullStackDeveloper</span>:{"\n"}
-                {"    "}<span className="syntax-keyword">def</span> <span className="syntax-def">__init__</span>(self):{"\n"}
-                {"        "}self.name = <span className="syntax-string">"Jaya Ganesh P"</span>{"\n"}
-                {"        "}self.location = <span className="syntax-string">"Chennai, India"</span>{"\n"}
-                {"        "}self.contact = <span className="syntax-string">"+91 82483 71828"</span>{"\n"}
-                {"        "}self.education = <span className="syntax-string">"B.E. Computer Science (2022-2026)"</span>{"\n"}
-                {"        "}self.university = <span className="syntax-string">"Annamalai University (CGPA 7.5)"</span>{"\n"}
-                {"        "}self.backend = [<span className="syntax-string">"Python"</span>, <span className="syntax-string">"Django REST"</span>, <span className="syntax-string">"REST APIs"</span>]{"\n"}
-                {"        "}self.database = <span className="syntax-string">"MySQL"</span>{"\n"}
-                {"        "}self.frontend = [<span className="syntax-string">"React.js"</span>, <span className="syntax-string">"JavaScript"</span>, <span className="syntax-string">"HTML5/CSS3"</span>]{"\n"}
-                {"        "}self.tools = [<span className="syntax-string">"Git & GitHub"</span>, <span className="syntax-string">"Postman"</span>, <span className="syntax-string">"VS Code"</span>]{"\n"}
-                {"        "}self.status = <span className="syntax-string">"Seeking Full-Stack / Software Engineer roles"</span>{"\n\n"}
-                {"    "}<span className="syntax-keyword">def</span> <span className="syntax-def">deliver_value</span>(self):{"\n"}
-                {"        "}<span className="syntax-keyword">return</span> <span className="syntax-string">"Scalable web systems & clean REST APIs"</span>
-              </code>
-            </pre>
           </div>
         </div>
       </div>

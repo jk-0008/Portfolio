@@ -493,12 +493,12 @@ button {
 }
 
 .photo-ring {
-  width: 220px;
-  height: 220px;
+  width: 280px;
+  height: 280px;
   border-radius: 50%;
-  padding: 4px;
+  padding: 5px;
   background: var(--gradient-primary);
-  box-shadow: 0 0 35px rgba(6, 182, 212, 0.35);
+  box-shadow: 0 0 45px rgba(6, 182, 212, 0.45);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -507,7 +507,7 @@ button {
 
 .photo-ring:hover {
   transform: scale(1.03);
-  box-shadow: 0 0 45px rgba(6, 182, 212, 0.55);
+  box-shadow: 0 0 55px rgba(6, 182, 212, 0.65);
 }
 
 .hero-avatar-img {
@@ -542,14 +542,14 @@ button {
 }
 
 .badge-top-left {
-  top: 10px;
-  left: -25px;
+  top: 20px;
+  left: -20px;
   border-left: 3px solid var(--accent-cyan);
 }
 
 .badge-bottom-right {
-  bottom: 10px;
-  right: -25px;
+  bottom: 20px;
+  right: -20px;
   border-right: 3px solid var(--accent-blue);
   animation-delay: -2s;
 }
@@ -2333,9 +2333,9 @@ button {
     width: 100%;
   }
 
-  .code-body {
-    padding: 14px;
-    font-size: 0.76rem;
+  .photo-ring {
+    width: 210px;
+    height: 210px;
   }
 }
 
