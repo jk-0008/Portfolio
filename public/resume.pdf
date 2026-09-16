@@ -1,0 +1,86 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 4487 >>
+stream
+BT /F2 18 Tf 50 745 Td (JAYA GANESH P) Tj ET
+BT /F1 9 Tf 50 728 Td (Chennai, India  |  +91 82483 71828  |  jayaganesh1920@gmail.com) Tj ET
+BT /F1 9 Tf 50 715 Td (LinkedIn: linkedin.com/in/jai1920  |  GitHub: github.com/jk-0008) Tj ET
+BT /F2 11 Tf 50 692 Td (PROFESSIONAL SUMMARY) Tj ET
+0.5 w 50 689 m 562 689 l S
+BT /F1 8.5 Tf 50 676 Td (Aspiring Python Full-Stack Developer and B.E. Computer Science student \(graduating 2026\) with hands-on experience) Tj ET
+BT /F1 8.5 Tf 50 664 Td (building scalable web applications using Python, Django REST Framework, React.js, and MySQL. Passionate about) Tj ET
+BT /F1 8.5 Tf 50 652 Td (architecting clean RESTful APIs, relational databases, and modern web applications. Seeking entry-level roles.) Tj ET
+BT /F2 11 Tf 50 632 Td (EDUCATION) Tj ET
+0.5 w 50 629 m 562 629 l S
+BT /F2 9.5 Tf 50 616 Td (Bachelor of Engineering \(B.E.\) in Computer Science & Engineering) Tj ET
+BT /F1 8.5 Tf 50 604 Td (Annamalai University, Tamil Nadu  |  2022 - 2026  |  CGPA: 7.5 / 10) Tj ET
+BT /F2 9.5 Tf 50 588 Td (Higher Secondary Certificate \(HSC - 12th\)) Tj ET
+BT /F1 8.5 Tf 50 576 Td (V.M. Government Higher Secondary School, Periyakulam  |  2021 - 2022  |  Percentage: 82%) Tj ET
+BT /F2 9.5 Tf 50 560 Td (Secondary School Leaving Certificate \(SSLC - 10th\)) Tj ET
+BT /F1 8.5 Tf 50 548 Td (V.M. Government Higher Secondary School, Periyakulam  |  2019 - 2020  |  Percentage: 89%) Tj ET
+BT /F2 11 Tf 50 528 Td (TECHNICAL SKILLS) Tj ET
+0.5 w 50 525 m 562 525 l S
+BT /F2 9.5 Tf 50 512 Td (Languages: ) Tj ET
+BT /F1 8.5 Tf 125 512 Td (Python, JavaScript, HTML5, CSS3) Tj ET
+BT /F2 9.5 Tf 50 498 Td (Frameworks & Libraries: ) Tj ET
+BT /F1 8.5 Tf 175 498 Td (Django, Django REST Framework \(DRF\), React.js) Tj ET
+BT /F2 9.5 Tf 50 484 Td (Databases & Tools: ) Tj ET
+BT /F1 8.5 Tf 155 484 Td (MySQL, SQL, Git, GitHub, Postman, VS Code) Tj ET
+BT /F2 9.5 Tf 50 470 Td (Core Competencies: ) Tj ET
+BT /F1 8.5 Tf 155 470 Td (RESTful APIs, Object-Oriented Programming \(OOP\), Database Normalization) Tj ET
+BT /F2 11 Tf 50 450 Td (PROJECTS) Tj ET
+0.5 w 50 447 m 562 447 l S
+BT /F2 9.5 Tf 50 434 Td (Jobi AI - AI-Powered Job Portal & ATS) Tj ET
+BT /F1 8.5 Tf 50 422 Td (React.js, Python, Django REST, MySQL, REST APIs) Tj ET
+BT /F1 8.5 Tf 50 408 Td (- Engineered a full-stack recruitment platform connecting candidates and recruiters using React.js and Django REST.) Tj ET
+BT /F1 8.5 Tf 50 395 Td (- Engineered automated resume parsing algorithms to evaluate skillsets and compute compatibility match scores.) Tj ET
+BT /F1 8.5 Tf 50 382 Td (- Developed an automated tool generating tailored technical and behavioral interview questions based on skill gaps.) Tj ET
+BT /F1 8.5 Tf 50 369 Td (- Implemented Jobi Chatbot to assist job seekers with real-time job searches and application queries.) Tj ET
+BT /F1 8.5 Tf 50 356 Td (- Built role-based access control \(RBAC\) with JWT authentication for Job Seekers and Recruiters.) Tj ET
+BT /F1 8.5 Tf 50 343 Td (- Designed relational MySQL database schemas and REST APIs to manage users, postings, and status pipelines.) Tj ET
+BT /F2 11 Tf 50 323 Td (INTERNSHIP EXPERIENCE) Tj ET
+0.5 w 50 320 m 562 320 l S
+BT /F2 9.5 Tf 50 307 Td (Python Full Stack Developer Intern | QSpiders | Bengaluru, India) Tj ET
+BT /F1 8.5 Tf 470 307 Td (Feb 2026 - Aug 2026) Tj ET
+BT /F1 8.5 Tf 50 294 Td (- Developed scalable full-stack web applications using Python, Django, MySQL, and JavaScript.) Tj ET
+BT /F1 8.5 Tf 50 282 Td (- Engineered RESTful APIs with Django REST Framework and designed normalized database models.) Tj ET
+BT /F2 9.5 Tf 50 265 Td (MERN Stack Developer Intern | HITAKEY Solution | Trichy, India) Tj ET
+BT /F1 8.5 Tf 460 265 Td (June 2025 - July 2025) Tj ET
+BT /F1 8.5 Tf 50 252 Td (- Developed a responsive full-stack To-Do/Task web application with CRUD operations using MongoDB, React.js, Node.js.) Tj ET
+BT /F2 9.5 Tf 50 235 Td (UI/UX Design Intern | AIIRF EDII | Chidambaram, India) Tj ET
+BT /F1 8.5 Tf 465 235 Td (June 2024 - July 2024) Tj ET
+BT /F1 8.5 Tf 50 222 Td (- Designed intuitive wireframes, user flows, and interactive prototypes focusing on responsive web accessibility.) Tj ET
+BT /F2 11 Tf 50 202 Td (CERTIFICATIONS) Tj ET
+0.5 w 50 199 m 562 199 l S
+BT /F1 8.5 Tf 50 186 Td (* Python Full Stack Development \(QSpiders\)        * MERN Stack Development \(HITAKEY Solution\)) Tj ET
+BT /F1 8.5 Tf 50 172 Td (* UI & UX Design \(AIIRF EDII\)                     * Cloud Computing & Social Networks \(NPTEL\)) Tj ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000244 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+500
+%%EOF
