@@ -116,8 +116,8 @@ const Home = () => {
                 <span>Python & Django</span>
               </div>
               <div className="floating-badge badge-bottom-right">
-                <span className="badge-icon">⚛️</span>
-                <span>React.js</span>
+                <span className="badge-icon">🌐</span>
+                <span>REST API</span>
               </div>
             </div>
           </div>
