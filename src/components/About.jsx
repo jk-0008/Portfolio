@@ -48,11 +48,11 @@ const About = () => {
             </div>
             
             <p className="about-paragraph">
-              I am an aspiring <strong>Python Full-Stack Developer</strong> and final-year <strong>B.E. Computer Science & Engineering</strong> student at <strong>Annamalai University</strong>. I bring hands-on experience building scalable, high-performance web applications using <strong>Python, Django REST Framework, React.js, and MySQL</strong>.
+              Python Full-Stack Developer with a <strong>B.E. in Computer Science & Engineering</strong> from <strong>Annamalai University</strong> and hands-on experience in <strong>Python, Django, Django REST Framework, React.js, and MySQL</strong>.
             </p>
             
             <p className="about-paragraph">
-              I have hands-on experience developing end-to-end web applications, integrating secure RESTful APIs, designing normalized relational database models in MySQL, and crafting responsive, accessible user interfaces in React.js.
+              Experienced in developing scalable RESTful APIs, full-stack web applications, authentication systems, normalized relational database models, and AI-powered features.
             </p>
             
             <div className="objective-box">
@@ -60,7 +60,7 @@ const About = () => {
               <div>
                 <h4 className="objective-title">Career Objective</h4>
                 <p className="objective-desc">
-                  Seeking an entry-level <strong>Python Full-Stack / Software Engineer</strong> role where I can leverage my expertise in Python, Django REST Framework, React.js, and MySQL to architect scalable systems, automate workflows, and deliver impactful digital solutions.
+                  Seeking an entry-level <strong>Python Developer / Python Full-Stack Developer</strong> role where I can leverage my expertise in Python, Django REST Framework, React.js, and MySQL to architect scalable systems, automate workflows, and deliver impactful digital solutions.
                 </p>
               </div>
             </div>

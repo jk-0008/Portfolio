@@ -15,13 +15,14 @@ const Home = () => {
           </h1>
 
           <h2 className="hero-subtitle">
-            Python Full Stack Developer
+            Python Full Stack Developer • Aspiring Software Engineer
           </h2>
 
           <p className="hero-description">
-            Aspiring Python Full-Stack Developer and B.E. Computer Science student (graduating 2026) with hands-on 
-            experience building scalable, secure web applications using <strong>Python, Django REST Framework, React.js, and MySQL</strong>. 
-            Passionate about architecting clean RESTful APIs, normalized database schemas, and modern user interfaces.
+            Python Full-Stack Developer with a B.E. in Computer Science & Engineering and hands-on 
+            experience in <strong>Python, Django, Django REST Framework, React.js, and MySQL</strong>. 
+            Experienced in developing RESTful APIs, full-stack web applications, authentication, database models, 
+            and AI-powered features. Seeking an entry-level Python Developer / Python Full-Stack Developer role.
           </p>
 
           <div className="hero-actions">

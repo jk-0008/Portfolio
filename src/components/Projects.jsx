@@ -12,10 +12,10 @@ const Projects = () => {
       technologies: ["React.js", "Python", "Django REST Framework", "MySQL", "Google Gemini AI", "REST APIs", "JWT Authentication", "JavaScript", "CSS3"],
       features: [
         "Engineered a full-stack recruitment platform connecting candidates and recruiters using React.js and Django REST Framework.",
-        "Integrated automated AI resume parsing to evaluate candidate skillsets against job requirements and compute compatibility match scores.",
-        "Developed an automated tool generating tailored technical and behavioral interview questions based on candidate skill gaps.",
-        "Implemented Jobi Chatbot to assist job seekers with real-time job searches and application queries.",
-        "Built role-based access control (RBAC) with JWT authentication for Job Seekers, Recruiters, and Hiring Managers.",
+        "Integrated Google Gemini AI to parse PDF resumes, compare candidate skillsets against job requirements, and compute compatibility match scores.",
+        "Developed an automated AI tool generating tailored technical and behavioral interview questions based on candidate skill gaps.",
+        "Implemented Jobi AI Chatbot to assist job seekers with real-time job searches and application queries.",
+        "Built role-based access control (RBAC) with JWT authentication for Job Seekers and Recruiters.",
         "Designed relational MySQL database schemas and REST APIs to manage users, job postings, and application status pipelines."
       ],
       githubLink: "https://github.com/jk-0008/Ai-Job-Portal",
